@@ -86,11 +86,11 @@ int main(){
         }
         if(flag)
         {
-            cout << "Lucky";
+            cout << "LuckyChef";
         }
         else
         {
-            cout << "Unlucky";
+            cout << "UnluckyChef";
         }
         cout << endl;
     }
